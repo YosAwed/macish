@@ -1,0 +1,10 @@
+ishunix ver 2.00  (shift-JIS non-kana version)
+
+Usage:
+   Encode
+      ish  <filename> [<filename> ...] {-s7|-s8|-ss|-sn} [{-u|-m|-c|-9|-?|-*}]
+   Decode
+      ish  <filename>
+
+
+1990-7-12 keizo
