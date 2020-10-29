@@ -31,3 +31,5 @@ SCO-XENIX386 (Version?)
 
 by 小路　孝司　( taka@exsys.prm.prug.or.jp)
 
+--------------------
+MacOS XCode用にソースコードをパッチ（2020/10/29) By Awed
