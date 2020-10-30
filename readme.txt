@@ -1,3 +1,12 @@
+--------------------
+MacOS XCode用にソースコードをパッチ（2020/10/29) By Awed
+
+Vectorにあった、UNIX版ishをXCode用に手直ししたものです。そのままコンパイルしてもいいですが、コンパイル済みのバイナリもサブディレクトリの
+中に置いてあるので、手っ取り早く使いたい人は、そこからコピーして使ってください。%> ish -s7 -ma xxxx.xxxで、ishファイルが生成されます。
+
+Mac用のishは、すごく古いものしか存在せず、今のMacOSでは動かなかったので、ソースからポーティングしてみました。
+
+--------------- Original readme.txt
 *** ＩＳＨマルチボリューム対応版
 
 このＩＳＨは、taka@exsys.prm.prug.or.jp.or.jpが、ish201に
@@ -31,5 +40,3 @@ SCO-XENIX386 (Version?)
 
 by 小路　孝司　( taka@exsys.prm.prug.or.jp)
 
---------------------
-MacOS XCode用にソースコードをパッチ（2020/10/29) By Awed
