@@ -321,5 +321,5 @@ void puttitle(void)
 	fprintf(stderr, "multi-vol store   supported by aka@redcat.niiza.saitama.jp 1993\n");
 	fprintf(stderr, "ported back to MS-DOS and to ComWin by MicroCassetteMan 1996\n");
 	fprintf(stderr, "brushup for Linux and MinGW by bko 2012\n\n");
-    fprintf(stderr, "ported for Mac XCode by Awed 2020¥n¥n");
+	fprintf(stderr, "ported for Mac XCode by Awed 2020\n\n");
 }
